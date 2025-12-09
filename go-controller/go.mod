@@ -58,9 +58,9 @@ require (
 	gopkg.in/gcfg.v1 v1.2.3
 	gopkg.in/k8snetworkplumbingwg/multus-cni.v4 v4.0.2
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
-	k8s.io/api v0.34.1
-	k8s.io/apimachinery v0.34.1
-	k8s.io/client-go v0.34.1
+	k8s.io/api v0.34.2
+	k8s.io/apimachinery v0.34.2
+	k8s.io/client-go v0.34.2
 	k8s.io/component-helpers v0.34.1
 	k8s.io/klog/v2 v2.130.1
 	k8s.io/kubernetes v1.34.1

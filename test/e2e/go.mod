@@ -13,9 +13,9 @@ require (
 	github.com/onsi/gomega v1.36.1
 	github.com/pkg/errors v0.9.1
 	golang.org/x/sync v0.17.0
-	k8s.io/api v0.34.1
-	k8s.io/apimachinery v0.34.1
-	k8s.io/client-go v0.34.1
+	k8s.io/api v0.34.2
+	k8s.io/apimachinery v0.34.2
+	k8s.io/client-go v0.34.2
 	k8s.io/klog v1.0.0
 	k8s.io/kubernetes v1.34.1
 	k8s.io/pod-security-admission v0.34.1
